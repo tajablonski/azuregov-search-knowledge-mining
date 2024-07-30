@@ -2,7 +2,7 @@
 
 There are two options for deploying the resources to Azure for this solution accelerator:
 
-1. **Using a PowerShell Script**: `deploy.ps1`
+1. **Using a PowerShell Script**: `KMA_deploy_IBAC.ps1`
 
     This script is the fastest way to get your solution up and running and deploy the solution end to end:
 
