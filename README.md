@@ -57,7 +57,7 @@ If you have sensitive data please work with your security team to restrict the a
 
 ### [00 - Resource Deployment](./00%20-%20Resource%20Deployment)
 
-The contents of this folder show you how to deploy the required resources to your Azure subscription. You can do this either through the [Azure portal](https://portal.azure.us) or using the provided [PowerShell script](./00%20-%20Resource%20Deployment/deploy.ps1). Powershell script deploys the whole solution end to end (Resoource Deployment, Search Index Creation and Web UI template deployment)
+The contents of this folder show you how to deploy the required resources to your Azure subscription. You can do this either through the [Azure portal](https://portal.azure.us) or using the provided [PowerShell script](./00%20-%20Resource%20Deployment/KMA_deploy_IBAC.ps1). Powershell script deploys the whole solution end to end (Resoource Deployment, Search Index Creation and Web UI template deployment)
 
 Alternatively, you can automatically deploy the required resources using this button:
 
